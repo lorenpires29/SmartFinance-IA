@@ -41,3 +41,5 @@ Uma plataforma premium de gestão financeira pessoal e familiar impulsionada por
 
 ---
 Desenvolvido com 💜 para automação e saúde financeira.
+
+Como recriar o projeto passo a passo: https://chemical-radiator-0ea.notion.site/Smart-Finance-AI-38a3f6ca33b78069bee8c75e907cf087
